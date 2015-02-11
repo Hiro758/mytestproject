@@ -42,3 +42,15 @@
 #define COCOAPODS_VERSION_MINOR_FontAwesomeKit_Zocial 1
 #define COCOAPODS_VERSION_PATCH_FontAwesomeKit_Zocial 8
 
+// GBFlatButton
+#define COCOAPODS_POD_AVAILABLE_GBFlatButton
+#define COCOAPODS_VERSION_MAJOR_GBFlatButton 2
+#define COCOAPODS_VERSION_MINOR_GBFlatButton 0
+#define COCOAPODS_VERSION_PATCH_GBFlatButton 1
+
+// MIBadgeButton
+#define COCOAPODS_POD_AVAILABLE_MIBadgeButton
+#define COCOAPODS_VERSION_MAJOR_MIBadgeButton 0
+#define COCOAPODS_VERSION_MINOR_MIBadgeButton 0
+#define COCOAPODS_VERSION_PATCH_MIBadgeButton 3
+

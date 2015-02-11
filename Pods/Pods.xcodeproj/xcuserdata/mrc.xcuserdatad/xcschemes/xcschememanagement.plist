@@ -9,6 +9,16 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-GBFlatButton.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MIBadgeButton.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -17,12 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>CE2E78B1EDEA91FBCA4B0F65</key>
+		<key>653893DE63F1BC7144311942</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E4FEE0A846BEF675EE79C63D</key>
+		<key>9882B7DDC55B3C2A9654D9C9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B07447819556424AFE75BCCA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BCFB1EFDDE57E497A57C4A07</key>
 		<dict>
 			<key>primary</key>
 			<true/>

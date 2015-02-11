@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		261734C11A63BFF300E4C2CC /* mainView.m in Sources */ = {isa = PBXBuildFile; fileRef = 261734C01A63BFF300E4C2CC /* mainView.m */; };
+		267B0B0D1A6A465700403AFF /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 267B0B0C1A6A465700403AFF /* QuartzCore.framework */; };
 		26BF62351A63BDFC00F1ACF6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 26BF62341A63BDFC00F1ACF6 /* main.m */; };
 		26BF62381A63BDFC00F1ACF6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 26BF62371A63BDFC00F1ACF6 /* AppDelegate.m */; };
 		26BF623B1A63BDFC00F1ACF6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 26BF623A1A63BDFC00F1ACF6 /* ViewController.m */; };
@@ -31,6 +32,7 @@
 		0BEA601067A5B17D8B2115F8 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		261734BF1A63BFF300E4C2CC /* mainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mainView.h; sourceTree = "<group>"; };
 		261734C01A63BFF300E4C2CC /* mainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mainView.m; sourceTree = "<group>"; };
+		267B0B0C1A6A465700403AFF /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		26BF622F1A63BDFC00F1ACF6 /* mytestproject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mytestproject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		26BF62331A63BDFC00F1ACF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		26BF62341A63BDFC00F1ACF6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -52,6 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				267B0B0D1A6A465700403AFF /* QuartzCore.framework in Frameworks */,
 				94554B733E7EC4C7B2ECD931 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,6 +143,7 @@
 		E322B2FF3AEEE6A7390018A7 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				267B0B0C1A6A465700403AFF /* QuartzCore.framework */,
 				0BEA601067A5B17D8B2115F8 /* libPods.a */,
 			);
 			name = Frameworks;

@@ -14,11 +14,17 @@ PODS:
     - FontAwesomeKit/Core
   - FontAwesomeKit/Zocial (2.1.8):
     - FontAwesomeKit/Core
+  - GBFlatButton (2.0.1)
+  - MIBadgeButton (0.0.3)
 
 DEPENDENCIES:
   - FontAwesomeKit (~> 2.1.0)
+  - GBFlatButton (~> 2.0.0)
+  - MIBadgeButton (~> 0.0.2)
 
 SPEC CHECKSUMS:
   FontAwesomeKit: a2edea3111dab107b4cc43b85881b404eb063385
+  GBFlatButton: 82b8d437e14fbb572df25f487f426fb6a15126ff
+  MIBadgeButton: a372bd66a27ca61e8074f74d16dab7638933771b
 
 COCOAPODS: 0.35.0
